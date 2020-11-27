@@ -1,0 +1,13 @@
+F:\Github-CSharp\Demo\bin\Debug\Demo.exe.config
+F:\Github-CSharp\Demo\bin\Debug\Demo.exe
+F:\Github-CSharp\Demo\bin\Debug\Demo.pdb
+F:\Github-CSharp\Demo\bin\Debug\CTracker.dll
+F:\Github-CSharp\Demo\bin\Debug\CTracker.pdb
+F:\Github-CSharp\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+F:\Github-CSharp\Demo\obj\Debug\Demo.Form1.resources
+F:\Github-CSharp\Demo\obj\Debug\Demo.Properties.Resources.resources
+F:\Github-CSharp\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+F:\Github-CSharp\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+F:\Github-CSharp\Demo\obj\Debug\Demo.csproj.CopyComplete
+F:\Github-CSharp\Demo\obj\Debug\Demo.exe
+F:\Github-CSharp\Demo\obj\Debug\Demo.pdb
