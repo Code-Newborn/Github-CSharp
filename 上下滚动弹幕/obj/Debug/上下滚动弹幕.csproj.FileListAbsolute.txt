@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\上下滚动弹幕\bin\Debug\上下滚动弹幕.exe.config
+C:\Users\admin\source\repos\上下滚动弹幕\bin\Debug\上下滚动弹幕.exe
+C:\Users\admin\source\repos\上下滚动弹幕\bin\Debug\上下滚动弹幕.pdb
+C:\Users\admin\source\repos\上下滚动弹幕\obj\Debug\上下滚动弹幕.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\上下滚动弹幕\obj\Debug\上下滚动弹幕.Properties.Resources.resources
+C:\Users\admin\source\repos\上下滚动弹幕\obj\Debug\上下滚动弹幕.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\上下滚动弹幕\obj\Debug\上下滚动弹幕.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\上下滚动弹幕\obj\Debug\上下滚动弹幕.exe
+C:\Users\admin\source\repos\上下滚动弹幕\obj\Debug\上下滚动弹幕.pdb
+C:\Users\admin\source\repos\上下滚动弹幕\obj\Debug\上下滚动弹幕.滚动弹幕窗口.resources
