@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\获取文件类型\bin\Debug\获取文件类型.exe.config
+C:\Users\admin\source\repos\获取文件类型\bin\Debug\获取文件类型.exe
+C:\Users\admin\source\repos\获取文件类型\bin\Debug\获取文件类型.pdb
+C:\Users\admin\source\repos\获取文件类型\obj\Debug\获取文件类型.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\获取文件类型\obj\Debug\获取文件类型.FileView_form.resources
+C:\Users\admin\source\repos\获取文件类型\obj\Debug\获取文件类型.Properties.Resources.resources
+C:\Users\admin\source\repos\获取文件类型\obj\Debug\获取文件类型.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\获取文件类型\obj\Debug\获取文件类型.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\获取文件类型\obj\Debug\获取文件类型.exe
+C:\Users\admin\source\repos\获取文件类型\obj\Debug\获取文件类型.pdb
