@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\bin\Debug\VS2019_点击上下隐藏栏实现.exe.config
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\bin\Debug\VS2019_点击上下隐藏栏实现.exe
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\bin\Debug\VS2019_点击上下隐藏栏实现.pdb
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\obj\Debug\VS2019_点击上下隐藏栏实现.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\obj\Debug\VS2019_点击上下隐藏栏实现.Properties.Resources.resources
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\obj\Debug\VS2019_点击上下隐藏栏实现.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\obj\Debug\VS2019_点击上下隐藏栏实现.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\obj\Debug\VS2019_点击上下隐藏栏实现.exe
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\obj\Debug\VS2019_点击上下隐藏栏实现.pdb
+C:\Users\admin\source\repos\C#练习\VS2019_点击上下隐藏栏实现\obj\Debug\VS2019_点击上下隐藏栏实现.Form1.resources

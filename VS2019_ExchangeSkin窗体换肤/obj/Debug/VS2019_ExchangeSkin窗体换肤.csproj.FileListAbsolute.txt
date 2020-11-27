@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\bin\Debug\VS2019_ExchangeSkin窗体换肤.exe.config
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\bin\Debug\VS2019_ExchangeSkin窗体换肤.exe
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\bin\Debug\VS2019_ExchangeSkin窗体换肤.pdb
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\obj\Debug\VS2019_ExchangeSkin窗体换肤.Form1.resources
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\obj\Debug\VS2019_ExchangeSkin窗体换肤.Properties.Resources.resources
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\obj\Debug\VS2019_ExchangeSkin窗体换肤.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\obj\Debug\VS2019_ExchangeSkin窗体换肤.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\obj\Debug\VS2019_ExchangeSkin窗体换肤.exe
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\obj\Debug\VS2019_ExchangeSkin窗体换肤.pdb
+C:\Users\admin\source\repos\C#练习\VS2019_ExchangeSkin窗体换肤\obj\Debug\VS2019_ExchangeSkin窗体换肤.csprojAssemblyReference.cache

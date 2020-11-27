@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\串口通信\bin\Debug\串口通信.exe.config
+C:\Users\admin\source\repos\串口通信\bin\Debug\串口通信.exe
+C:\Users\admin\source\repos\串口通信\bin\Debug\串口通信.pdb
+C:\Users\admin\source\repos\串口通信\obj\Debug\串口通信.SerialPortsForm.resources
+C:\Users\admin\source\repos\串口通信\obj\Debug\串口通信.Properties.Resources.resources
+C:\Users\admin\source\repos\串口通信\obj\Debug\简单串口通信收发数据.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\串口通信\obj\Debug\简单串口通信收发数据.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\串口通信\obj\Debug\串口通信.exe
+C:\Users\admin\source\repos\串口通信\obj\Debug\串口通信.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\自定义控件\bin\Debug\自定义控件.dll
+C:\Users\admin\source\repos\自定义控件\bin\Debug\自定义控件.pdb
+C:\Users\admin\source\repos\自定义控件\obj\Debug\自定义控件.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\自定义控件\obj\Debug\自定义控件.dll
+C:\Users\admin\source\repos\自定义控件\obj\Debug\自定义控件.pdb
+C:\Users\admin\source\repos\自定义控件\obj\Debug\自定义控件.csprojAssemblyReference.cache

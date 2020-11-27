@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\自定义控件\bin\Debug\自定义控件.dll
+C:\Users\admin\source\repos\自定义控件\bin\Debug\自定义控件.pdb
+C:\Users\admin\source\repos\自定义控件\obj\Debug\CTracker.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\自定义控件\obj\Debug\CTracker.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\自定义控件\obj\Debug\自定义控件.dll
+C:\Users\admin\source\repos\自定义控件\obj\Debug\自定义控件.pdb
+C:\Users\admin\source\repos\CTracker\bin\Debug\CTracker.dll
+C:\Users\admin\source\repos\CTracker\bin\Debug\CTracker.pdb
+C:\Users\admin\source\repos\CTracker\obj\Debug\CTracker.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CTracker\obj\Debug\CTracker.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CTracker\obj\Debug\CTracker.dll
+C:\Users\admin\source\repos\CTracker\obj\Debug\CTracker.pdb
