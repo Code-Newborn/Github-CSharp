@@ -1,5 +1,5 @@
 ﻿
-namespace 上下滚动弹幕
+namespace VS2019_上下滚动弹幕
 {
     partial class 滚动弹幕窗口
     {
@@ -43,7 +43,7 @@ namespace 上下滚动弹幕
             this.滚动弹幕区.ItemHeight = 12;
             this.滚动弹幕区.Items.AddRange(new object[] {
             "",
-            "namespace 上下滚动弹幕",
+            "namespace VS2019_上下滚动弹幕",
             "{",
             "    partial class Form1",
             "    {",

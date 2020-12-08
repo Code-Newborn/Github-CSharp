@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 上下滚动弹幕
+namespace VS2019_上下滚动弹幕
 {
     public partial class 滚动弹幕窗口 : Form
     {

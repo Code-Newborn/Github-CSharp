@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 上下滚动弹幕
+namespace VS2019_上下滚动弹幕
 {
     static class Program
     {
