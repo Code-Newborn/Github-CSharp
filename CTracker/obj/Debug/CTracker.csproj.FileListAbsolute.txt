@@ -10,3 +10,15 @@ C:\Users\admin\source\repos\CTracker\obj\Debug\CTracker.csprojAssemblyReference.
 C:\Users\admin\source\repos\CTracker\obj\Debug\CTracker.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\CTracker\obj\Debug\CTracker.dll
 C:\Users\admin\source\repos\CTracker\obj\Debug\CTracker.pdb
+F:\Github-CSharp\自定义CTracker\bin\Debug\CTracker.dll
+F:\Github-CSharp\自定义CTracker\bin\Debug\CTracker.pdb
+F:\Github-CSharp\自定义CTracker\obj\Debug\CTracker.csprojAssemblyReference.cache
+F:\Github-CSharp\自定义CTracker\obj\Debug\CTracker.csproj.CoreCompileInputs.cache
+F:\Github-CSharp\自定义CTracker\obj\Debug\CTracker.dll
+F:\Github-CSharp\自定义CTracker\obj\Debug\CTracker.pdb
+F:\Github-CSharp\CTracker\bin\Debug\CTracker.dll
+F:\Github-CSharp\CTracker\bin\Debug\CTracker.pdb
+F:\Github-CSharp\CTracker\obj\Debug\CTracker.csprojAssemblyReference.cache
+F:\Github-CSharp\CTracker\obj\Debug\CTracker.csproj.CoreCompileInputs.cache
+F:\Github-CSharp\CTracker\obj\Debug\CTracker.dll
+F:\Github-CSharp\CTracker\obj\Debug\CTracker.pdb
