@@ -7,3 +7,13 @@ C:\Users\admin\source\repos\串口通信\obj\Debug\简单串口通信收发数�
 C:\Users\admin\source\repos\串口通信\obj\Debug\简单串口通信收发数据.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\串口通信\obj\Debug\串口通信.exe
 C:\Users\admin\source\repos\串口通信\obj\Debug\串口通信.pdb
+F:\Github-CSharp\串口通信\bin\Debug\串口通信.exe.config
+F:\Github-CSharp\串口通信\bin\Debug\串口通信.exe
+F:\Github-CSharp\串口通信\bin\Debug\串口通信.pdb
+F:\Github-CSharp\串口通信\obj\Debug\简单串口通信收发数据.csprojAssemblyReference.cache
+F:\Github-CSharp\串口通信\obj\Debug\串口通信.SerialPortsForm.resources
+F:\Github-CSharp\串口通信\obj\Debug\串口通信.Properties.Resources.resources
+F:\Github-CSharp\串口通信\obj\Debug\简单串口通信收发数据.csproj.GenerateResource.cache
+F:\Github-CSharp\串口通信\obj\Debug\简单串口通信收发数据.csproj.CoreCompileInputs.cache
+F:\Github-CSharp\串口通信\obj\Debug\串口通信.exe
+F:\Github-CSharp\串口通信\obj\Debug\串口通信.pdb
