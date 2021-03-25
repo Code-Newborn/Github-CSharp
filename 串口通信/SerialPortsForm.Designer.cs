@@ -38,13 +38,13 @@
             this.tbox_Send = new System.Windows.Forms.TextBox();
             this.tbox_Receive = new System.Windows.Forms.TextBox();
             this.gpbox_SpSet = new System.Windows.Forms.GroupBox();
-            this.grpBox_ReceiveSet = new System.Windows.Forms.GroupBox();
-            this.grpBox_SendSet = new System.Windows.Forms.GroupBox();
-            this.cbox_com = new System.Windows.Forms.ComboBox();
-            this.cbox_BaudRate = new System.Windows.Forms.ComboBox();
             this.lbl_BaudRate = new System.Windows.Forms.Label();
-            this.rbtn_ReceiveHex = new System.Windows.Forms.RadioButton();
+            this.cbox_BaudRate = new System.Windows.Forms.ComboBox();
+            this.cbox_com = new System.Windows.Forms.ComboBox();
+            this.grpBox_ReceiveSet = new System.Windows.Forms.GroupBox();
             this.rbtn_ReceiveASCII = new System.Windows.Forms.RadioButton();
+            this.rbtn_ReceiveHex = new System.Windows.Forms.RadioButton();
+            this.grpBox_SendSet = new System.Windows.Forms.GroupBox();
             this.rbtn_SendASCII = new System.Windows.Forms.RadioButton();
             this.rbtn_SendHex = new System.Windows.Forms.RadioButton();
             this.serialPort1 = new System.IO.Ports.SerialPort(this.components);
@@ -153,6 +153,37 @@
             this.gpbox_SpSet.TabStop = false;
             this.gpbox_SpSet.Text = "串口设置";
             // 
+            // lbl_BaudRate
+            // 
+            this.lbl_BaudRate.AutoSize = true;
+            this.lbl_BaudRate.Location = new System.Drawing.Point(24, 63);
+            this.lbl_BaudRate.Name = "lbl_BaudRate";
+            this.lbl_BaudRate.Size = new System.Drawing.Size(56, 16);
+            this.lbl_BaudRate.TabIndex = 6;
+            this.lbl_BaudRate.Text = "波特率";
+            // 
+            // cbox_BaudRate
+            // 
+            this.cbox_BaudRate.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbox_BaudRate.FormattingEnabled = true;
+            this.cbox_BaudRate.Items.AddRange(new object[] {
+            "9600",
+            "12800",
+            "115200"});
+            this.cbox_BaudRate.Location = new System.Drawing.Point(97, 60);
+            this.cbox_BaudRate.Name = "cbox_BaudRate";
+            this.cbox_BaudRate.Size = new System.Drawing.Size(121, 24);
+            this.cbox_BaudRate.TabIndex = 2;
+            // 
+            // cbox_com
+            // 
+            this.cbox_com.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbox_com.FormattingEnabled = true;
+            this.cbox_com.Location = new System.Drawing.Point(97, 30);
+            this.cbox_com.Name = "cbox_com";
+            this.cbox_com.Size = new System.Drawing.Size(121, 24);
+            this.cbox_com.TabIndex = 1;
+            // 
             // grpBox_ReceiveSet
             // 
             this.grpBox_ReceiveSet.Controls.Add(this.rbtn_ReceiveASCII);
@@ -166,48 +197,16 @@
             this.grpBox_ReceiveSet.TabStop = false;
             this.grpBox_ReceiveSet.Text = "接收设置";
             // 
-            // grpBox_SendSet
+            // rbtn_ReceiveASCII
             // 
-            this.grpBox_SendSet.Controls.Add(this.rbtn_SendASCII);
-            this.grpBox_SendSet.Controls.Add(this.rbtn_SendHex);
-            this.grpBox_SendSet.Controls.Add(this.btn_SendClear);
-            this.grpBox_SendSet.Font = new System.Drawing.Font("宋体", 12F);
-            this.grpBox_SendSet.Location = new System.Drawing.Point(12, 227);
-            this.grpBox_SendSet.Name = "grpBox_SendSet";
-            this.grpBox_SendSet.Size = new System.Drawing.Size(234, 56);
-            this.grpBox_SendSet.TabIndex = 10;
-            this.grpBox_SendSet.TabStop = false;
-            this.grpBox_SendSet.Text = "发送设置";
-            // 
-            // cbox_com
-            // 
-            this.cbox_com.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cbox_com.FormattingEnabled = true;
-            this.cbox_com.Location = new System.Drawing.Point(97, 30);
-            this.cbox_com.Name = "cbox_com";
-            this.cbox_com.Size = new System.Drawing.Size(121, 24);
-            this.cbox_com.TabIndex = 1;
-            // 
-            // cbox_BaudRate
-            // 
-            this.cbox_BaudRate.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cbox_BaudRate.FormattingEnabled = true;
-            this.cbox_BaudRate.Items.AddRange(new object[] {
-            "9600",
-            "12800"});
-            this.cbox_BaudRate.Location = new System.Drawing.Point(97, 60);
-            this.cbox_BaudRate.Name = "cbox_BaudRate";
-            this.cbox_BaudRate.Size = new System.Drawing.Size(121, 24);
-            this.cbox_BaudRate.TabIndex = 2;
-            // 
-            // lbl_BaudRate
-            // 
-            this.lbl_BaudRate.AutoSize = true;
-            this.lbl_BaudRate.Location = new System.Drawing.Point(24, 63);
-            this.lbl_BaudRate.Name = "lbl_BaudRate";
-            this.lbl_BaudRate.Size = new System.Drawing.Size(56, 16);
-            this.lbl_BaudRate.TabIndex = 6;
-            this.lbl_BaudRate.Text = "波特率";
+            this.rbtn_ReceiveASCII.AutoSize = true;
+            this.rbtn_ReceiveASCII.Location = new System.Drawing.Point(70, 23);
+            this.rbtn_ReceiveASCII.Name = "rbtn_ReceiveASCII";
+            this.rbtn_ReceiveASCII.Size = new System.Drawing.Size(66, 20);
+            this.rbtn_ReceiveASCII.TabIndex = 7;
+            this.rbtn_ReceiveASCII.TabStop = true;
+            this.rbtn_ReceiveASCII.Text = "ASCII";
+            this.rbtn_ReceiveASCII.UseVisualStyleBackColor = true;
             // 
             // rbtn_ReceiveHex
             // 
@@ -220,16 +219,18 @@
             this.rbtn_ReceiveHex.Text = "HEX";
             this.rbtn_ReceiveHex.UseVisualStyleBackColor = true;
             // 
-            // rbtn_ReceiveASCII
+            // grpBox_SendSet
             // 
-            this.rbtn_ReceiveASCII.AutoSize = true;
-            this.rbtn_ReceiveASCII.Location = new System.Drawing.Point(70, 23);
-            this.rbtn_ReceiveASCII.Name = "rbtn_ReceiveASCII";
-            this.rbtn_ReceiveASCII.Size = new System.Drawing.Size(66, 20);
-            this.rbtn_ReceiveASCII.TabIndex = 7;
-            this.rbtn_ReceiveASCII.TabStop = true;
-            this.rbtn_ReceiveASCII.Text = "ASCII";
-            this.rbtn_ReceiveASCII.UseVisualStyleBackColor = true;
+            this.grpBox_SendSet.Controls.Add(this.rbtn_SendASCII);
+            this.grpBox_SendSet.Controls.Add(this.rbtn_SendHex);
+            this.grpBox_SendSet.Controls.Add(this.btn_SendClear);
+            this.grpBox_SendSet.Font = new System.Drawing.Font("宋体", 12F);
+            this.grpBox_SendSet.Location = new System.Drawing.Point(12, 227);
+            this.grpBox_SendSet.Name = "grpBox_SendSet";
+            this.grpBox_SendSet.Size = new System.Drawing.Size(234, 56);
+            this.grpBox_SendSet.TabIndex = 10;
+            this.grpBox_SendSet.TabStop = false;
+            this.grpBox_SendSet.Text = "发送设置";
             // 
             // rbtn_SendASCII
             // 
@@ -257,7 +258,7 @@
             // 
             this.serialPort1.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.serialPort1_DataReceived);
             // 
-            // Form1
+            // SerialPortsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -271,7 +272,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximumSize = new System.Drawing.Size(560, 330);
             this.MinimumSize = new System.Drawing.Size(560, 330);
-            this.Name = "Form1";
+            this.Name = "SerialPortsForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "串口通信";
             this.Load += new System.EventHandler(this.Form1_Load);
